@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/Bootslander 2"
+		},
+		{
+			"path": "../../Downloads/Vesperr"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Abytech",
+		"liveServer.settings.port": 5501
+	}
+}
